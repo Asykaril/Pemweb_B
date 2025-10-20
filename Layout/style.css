@@ -1,0 +1,12 @@
+h2 {
+    color: #03045e
+}
+
+p{
+    line-height: 1.6;
+}
+
+a:hover {
+    color: #0077b6;
+    text-decoration: underline;
+}
